@@ -284,3 +284,6 @@ void writeWAV(char *filename, float *signal, int signalSize)
 	}
 	outputfile.close();
 }
+
+//This code was created with help from resources created by, Leonard Manzara, 
+//Zahra Sahaf, and Charles Cote
